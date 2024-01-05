@@ -1,6 +1,6 @@
 const Header = ({ isMonthly, setIsMonthly }) => {
     return (
-        <header className="py-10 flex flex-col items-center gap-8">
+        <header className="py-10 pt-20 flex flex-col items-center gap-8">
             <h1 className="text-3xl text-grayish-blue">Our Pricing</h1>
             <div className="flex items-center gap-4 ">
                 <span className="text-grayish-blue/60 text-sm tracking-wide">
